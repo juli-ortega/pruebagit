@@ -65,6 +65,7 @@ public class Ejercicio4 {
             System.out.print(arregloModificado[i] + " ");
         }
         System.out.println("");
+        System.out.println("wtf men");
     }
     
 }

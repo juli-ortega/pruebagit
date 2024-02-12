@@ -35,6 +35,10 @@ public class Ejercicio5 {
         int resultado =0;
         resultado = suma/(x*y);
         
+        for (int i = 0; i < arreglo.length; i++) {
+            System.out.println("hello");
+        }
+        
         
     }
 }
